@@ -66,6 +66,4 @@ Install TensorFlow Serving for deploying the trained model. Refer to the officia
 - TensorFlow
 - Jupyter Notebook
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
